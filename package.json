@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-ip-tracer",
+  "description": "Helper for cidocker",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
